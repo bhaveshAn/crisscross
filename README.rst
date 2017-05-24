@@ -12,7 +12,7 @@ Platform                           Windows OS X  Linux
 Accelerometer                              X     X     
 Barometer                          
 Call                                       
-Camera (taking picture)                    
+Camera (taking picture)                          X       
 GPS                                        
 Gravity                             
 IR Blaster                         
@@ -27,12 +27,13 @@ Gyroscope
 Light                              
 Battery                            X       X     X      
 Native file chooser                X       X     X       
-Orientation                        
+Orientation                                      X
 Proximity                          
-Audio recording                    
+Audio recording                                  X
 Flash                                      
 Wifi                               X       X     X       
 Temperature                        
+Bluetooth                                        X
 ================================== ======= ===== ===== 
 
 Support
