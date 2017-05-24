@@ -10,7 +10,7 @@ __all__ = ('Accelerometer', 'Audio', 'Barometer', 'Battery', 'Call', 'Camera',
            'Compass', 'Email', 'FileChooser', 'GPS', 'Gravity', 'Gyroscope',
            'IrBlaster', 'Light', 'Orientation', 'Notification', 'Proximity',
            'Sms', 'TTS', 'UniqueID', 'Vibrator', 'Wifi', 'Flash',
-           'Temperature')
+           'Temperature', 'Bluetooth')
 
 from crisscross.facades.accelerometer import Accelerometer
 from crisscross.facades.audio import Audio
@@ -36,3 +36,4 @@ from crisscross.facades.uniqueid import UniqueID
 from crisscross.facades.vibrator import Vibrator
 from crisscross.facades.wifi import Wifi
 from crisscross.facades.temperature import Temperature
+from crisscross.facades.bluetooth import Bluetooth
