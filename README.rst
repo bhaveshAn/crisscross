@@ -9,29 +9,29 @@ Supported APIs and utilities
 ================================== ======= ===== ===== 
 Platform                           Windows OS X  Linux 
 ================================== ======= ===== ===== 
-Accelerometer                              X      X     
+Accelerometer                                X     X     
 Barometer                          
 Call                                       
 Camera (taking picture)                    
 GPS                                        
 Gravity                             
 IR Blaster                         
-Notifications                      X       X      X      
-Text to speech                     X       X      X     
-Email (open mail client)           X       X      X       
+Notifications                        X       X     X      
+Text to speech                       X       X     X     
+Email (open mail client)             X       X     X       
 Vibrator                                   
 Sms (send messages)                        
 Compass                                    
-Unique ID                          X       X      X       
+Unique ID                            X       X     X       
 Gyroscope                                  
 Light                              
-Battery                            X       X      X      
-Native file chooser                X       X      X       
+Battery                              X       X     X      
+Native file chooser                  X       X     X       
 Orientation                        
 Proximity                          
 Audio recording                    
 Flash                                      
-Wifi                               X       X      X       
+Wifi                                 X       X     X       
 Temperature                        
 ================================== ======= === ===== 
 
