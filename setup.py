@@ -14,10 +14,8 @@ packages = [
     'crisscross.facades',
     'crisscross.platforms',
     'crisscross.platforms.linux',
-    'crisscross.platforms.android',
     'crisscross.platforms.win',
     'crisscross.platforms.win.libs',
-    'crisscross.platforms.ios',
     'crisscross.platforms.macosx',
     'crisscross.platforms.macosx.libs',
 ]
